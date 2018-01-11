@@ -6,7 +6,9 @@ body {
 	background: rgba(0, 0, 0, 0.7);
   font-size: 1rem;
   padding-top: .45rem;
-  font-color: white;
+}
+.nav.navbar-nav.navbar-right li a {
+    color: white;
 }
 
 .jumbotron{
