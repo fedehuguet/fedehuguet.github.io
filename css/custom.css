@@ -1,0 +1,101 @@
+body {
+  overflow-x:hidden;
+}
+
+.navbar{
+	background: rgba(0, 0, 0, 0.7);
+  font-size: 1rem;
+  padding-top: .45rem;
+  font-color: white;
+}
+
+.jumbotron{
+  background: url(../img/fondo2.jpg);
+  /*background-size: 100% auto;*/
+  /*background-repeat: no-repeat;*/
+  /*background-size: 100% 100%;*/
+  /*background-size: auto 100%;*/
+  background-size: cover;
+  padding-bottom: 6rem;
+}
+
+.button, .active{
+  transition: .4s;
+}
+
+#contact_form{
+  background-color: #f2f2f2; 
+  padding: 37px;
+}
+
+#productos_div{
+  margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 451px) {
+    .jumbotron{
+      padding-bottom: 5rem;
+    }
+    .lead{
+      font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width: 434px) {
+    .lead{
+      font-size: 1.07rem;
+      margin-left: 0.5rem;
+    }
+}
+
+@media only screen and (max-width: 543px) and (min-width: 490px) {
+    #ele_nav{
+    	margin-left: 5rem;
+    }
+
+    .lead{
+      margin-left: 2.5rem;
+    }
+
+    #titulo{
+      margin-left: 3.5rem;
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    #titulo{
+      font-size: 5rem;
+    }
+}
+
+@media only screen and (max-width: 491px) and (min-width: 460px)  {
+    #ele_nav{
+      margin-left: 4rem;
+    }
+    .lead{
+      margin-left: 0.5rem;
+    }
+
+    #titulo{
+      margin-left: 2.5rem;
+    }
+}
+
+@media only screen and (max-width: 460px) and (min-width: 430px) {
+    #ele_nav{
+      margin-left: 3rem;
+    }
+}
+
+@media only screen and (max-width: 430px) and (min-width: 400px) {
+    #ele_nav{
+      margin-left: 2rem;
+    }
+}
+
+@media only screen and (max-width: 405px) {
+    #titulo{
+      font-size: 4.6rem;
+      margin-left: 1rem;
+    }
+}
