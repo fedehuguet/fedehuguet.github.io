@@ -8,7 +8,7 @@ body {
 	background: rgba(0, 0, 0, 0.7);
   font-size: 1rem;
   padding-top: .45rem;
-  border-bottom: 5px solid rgba(255, 255, 255, 0.7);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.7);
 }
 
 .jumbotron{
