@@ -8,9 +8,9 @@ $( document ).ready(function() {
 	$(document).scroll(function() { 
       scroll_start = $(this).scrollTop();
       if(scroll_start > 500) {
-          $(".navbar").css('background-color', 'rgba(0, 0, 0, 0.7) !important');
+          $(".navbar").css('background-color', 'rgba(0, 0, 0, 0.7)');
        } else {
-          $('.navbar').css('background-color', 'rgba(0, 0, 0, 0.3) !important');
+          $('.navbar').css('background-color', 'rgba(0, 0, 0, 0.3)');
        }
    });
 
