@@ -19,13 +19,13 @@ body {
   padding-bottom: 10rem;
   padding-top: 8rem;
 }
-.jumbotron #first{
+#first{
   background: url(../img/jumbo.jpeg);
 }
-.jumbotron #about{
+#about{
   background: url(../img/back.jpeg);
 }
-.jumbotron #proyects{
+#proyects{
   background: url(../img/back.jpeg);
 }
 
