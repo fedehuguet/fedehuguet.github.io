@@ -17,8 +17,5 @@ $( document ).ready(function() {
 
         // launch a new window with your PDF
         window.open('img/FedericoHuguetCV.pdf', 'somename');
-
-        // redirect current page to new location
-        window.location = 'newpage.html';
 	});
 });
