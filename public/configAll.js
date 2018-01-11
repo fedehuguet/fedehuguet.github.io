@@ -10,7 +10,7 @@ $( document ).ready(function() {
 			scrollTop: $($.attr(this, 'href')).offset().top - 99
 		}, 600);
 	});
-	$(document).on('click', 'curriculumpdf', function (event) {
+	$(document).on('click', '#curriculumpdf', function (event) {
 		// stop the browser from going to the href
         event = event || window.event; // for IE
         event.preventDefault(); 
