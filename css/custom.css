@@ -23,6 +23,8 @@ body {
   /*background: url(../img/jumbo.jpeg);*/
   background-size: cover !important;
   background-repeat: no-repeat !important;
+  padding: 2rem 0 !important;
+  margin-top: 1px !important;
 }
 
 #about {
@@ -31,6 +33,10 @@ body {
 
 #proyects {
   background: url(../img/back.jpeg);
+}
+
+#footer {
+  background: url(../img/back_footer.jpeg);
 }
 
 #proyectos .proyecto{
