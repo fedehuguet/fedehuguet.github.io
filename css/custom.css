@@ -1,5 +1,5 @@
 body {
-  background: url(../img/back.jpeg);
+ /* background: url(../img/back.jpeg);*/
   overflow-x:hidden;
   color:white;
   /*background: rgba(0, 0, 0, 0.9);*/
@@ -17,6 +17,20 @@ body {
   background-size: cover;
   padding-bottom: 10rem;
   padding-top: 8rem;
+}
+
+.section_back_image {
+  /*background: url(../img/jumbo.jpeg);*/
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#about {
+  background: url(../img/back.jpeg);
+}
+
+#proyects {
+  background: url(../img/back.jpeg);
 }
 
 #proyectos .proyecto{
