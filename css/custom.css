@@ -1,16 +1,14 @@
 body {
   overflow-x:hidden;
   color:white;
-  background: rgba(0, 0, 0, 1);
+  background: rgba(0, 0, 0, 0.9);
 }
 
 .navbar{
 	background: rgba(0, 0, 0, 0.7);
   font-size: 1rem;
   padding-top: .45rem;
-}
-.nav.navbar-nav.navbar-right li a {
-    color: white;
+  border-bottom: rgba(255, 255, 255, 0.7);
 }
 
 .jumbotron{
