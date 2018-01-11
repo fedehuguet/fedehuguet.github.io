@@ -32,11 +32,11 @@ body {
 }
 
 #proyects {
-  background: url(../img/back.jpeg);
+  background: url(../img/back_proyects.jpeg);
 }
 
 #footer {
-  background: url(../img/back_footer.jpeg);
+  background: url(../img/back.jpeg);
 }
 
 #proyectos .proyecto{
