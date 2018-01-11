@@ -21,8 +21,8 @@ body {
 
 .section_back_image {
   /*background: url(../img/jumbo.jpeg);*/
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
 }
 
 #about {
