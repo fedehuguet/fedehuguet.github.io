@@ -1,6 +1,5 @@
 body {
-  /*background: url(../img/back.jpeg);*/
-  background-color: rgba(0, 0, 0, 1);
+  background: url(../img/back.jpeg);
   overflow-x:hidden;
   color:white;
   /*background: rgba(0, 0, 0, 0.9);*/
@@ -14,19 +13,10 @@ body {
 }
 
 .jumbotron {
-  /*background: url(../img/jumbo.jpeg);*/
+  background: url(../img/jumbo.jpeg);
   background-size: cover;
   padding-bottom: 10rem;
   padding-top: 8rem;
-}
-#first{
-  background: url(../img/jumbo.jpeg);
-}
-#about{
-  background: url(../img/back.jpeg);
-}
-#proyects{
-  background: url(../img/back.jpeg);
 }
 
 #proyectos .proyecto{
