@@ -28,7 +28,7 @@ body {
 }
 
 #about {
-  background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,1)), url(../img/back_about.jpeg);
+  background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,1)), url(../img/back_about.jpeg);
 }
 
 #proyects {
