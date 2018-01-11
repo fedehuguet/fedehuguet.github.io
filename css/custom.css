@@ -13,8 +13,7 @@ body {
 }
 
 .jumbotron {
-  background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,1)), url(../img/jumbo.jpeg);
-  /*background: url(../img/jumbo.jpeg);*/
+  background: url(../img/jumbo.jpeg);
   background-size: cover;
   padding-bottom: 10rem;
   padding-top: 8rem;
@@ -33,8 +32,8 @@ body {
 }
 
 #proyects {
-  background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,1)), url(../img/back.jpeg);
-  /*background: url(../img/back.jpeg);*/
+  /*background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,1)), url(../img/back.jpeg);*/
+  background: url(../img/back.jpeg);
 }
 
 #footer {
