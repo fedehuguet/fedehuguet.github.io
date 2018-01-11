@@ -6,7 +6,7 @@ body {
 }
 
 .navbar{
-	background: rgba(0, 0, 0, 0.3);
+	/*background: rgba(0, 0, 0, 0.3);*/
   font-size: 1rem;
   padding-top: .45rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.7);

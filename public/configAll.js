@@ -7,10 +7,10 @@ $( document ).ready(function() {
    	var offset = startchange.offset();
 	$(document).scroll(function() { 
       scroll_start = $(this).scrollTop();
-      if(scroll_start > 200) {
-          $(".navbar").css('background', 'rgba(0, 0, 0, 0.7) !important');
+      if(scroll_start > 500) {
+          $(".navbar").css('background-color', 'rgba(0, 0, 0, 0.7) !important');
        } else {
-          $('.navbar').css('background', 'rgba(0, 0, 0, 0.3) !important');
+          $('.navbar').css('background-color', 'rgba(0, 0, 0, 0.3) !important');
        }
    });
 
