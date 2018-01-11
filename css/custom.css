@@ -14,7 +14,7 @@ body {
 }
 
 .jumbotron {
-  background: url(../img/jumbo.jpeg);
+  /*background: url(../img/jumbo.jpeg);*/
   background-size: cover;
   padding-bottom: 10rem;
   padding-top: 8rem;
