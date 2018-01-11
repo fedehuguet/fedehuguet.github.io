@@ -1,4 +1,5 @@
 body {
+  background: url(../img/back.jpeg);
   overflow-x:hidden;
   color:white;
   background: rgba(0, 0, 0, 0.9);
@@ -12,7 +13,7 @@ body {
 }
 
 .jumbotron{
-  background: url(../img/back.jpeg);
+  background: url(../img/jumbo.jpeg);
   background-size: cover;
   padding-bottom: 6rem;
 }
