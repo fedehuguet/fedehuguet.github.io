@@ -12,11 +12,20 @@ body {
   border-bottom: 1px solid rgba(255, 255, 255, 0.7);
 }
 
-.jumbotron{
+.jumbotron {
   background: url(../img/jumbo.jpeg);
   background-size: cover;
   padding-bottom: 10rem;
   padding-top: 8rem;
+}
+.jumbotron #first{
+  background: url(../img/jumbo.jpeg);
+}
+.jumbotron #about{
+  background: url(../img/back.jpeg);
+}
+.jumbotron #proyects{
+  background: url(../img/back.jpeg);
 }
 
 #proyectos .proyecto{
